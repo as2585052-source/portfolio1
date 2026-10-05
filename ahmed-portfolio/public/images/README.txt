@@ -1,0 +1,1 @@
+Add your portrait here as /public/images/profile.jpg, then set image: '/images/profile.jpg' in lib/data.ts. Use a square or portrait image with the subject centered; the display uses object-fit: cover.
